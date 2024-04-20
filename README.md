@@ -1,4 +1,9 @@
-## Guide for Data Structures and Algorithms!
+## [Guide for Data Structures and Algorithms!](https://carolzhangzz.github.io/DataStructure_Algorithm_HandBook_PreForLeetCode/)
+
+This HandBook it currently developed by gitHub page.
+
+Please click [here](https://carolzhangzz.github.io/DataStructure_Algorithm_HandBook_PreForLeetCode/) to read it ❗️❗️
+
 
 Data structures and algorithms are essential topics in computer science.
 
