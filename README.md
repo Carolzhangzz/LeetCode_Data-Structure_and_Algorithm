@@ -63,4 +63,9 @@ Whether they fully understand it or not, discussing code with others can enhance
 
 [1189. Maximum Number of Balloons](./HashTable/1189.md)
 
+[1207. Unique Number of Occurrences](./HashTable/1207.md)
+
+[217. Contains Duplicate](./HashTable/217.md)
+
+[20. Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) 
 
