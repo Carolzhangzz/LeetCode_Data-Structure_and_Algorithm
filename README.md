@@ -30,3 +30,5 @@ Hope this guide will serve as a good starting point for your journey to learn da
 
 
 [1160. Find Words That Can Be Formed by Characters](./HashTable/1160.md)
+
+[1189. Maximum Number of Balloons](./HashTable/1189.md)
