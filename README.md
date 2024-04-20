@@ -67,5 +67,5 @@ Whether they fully understand it or not, discussing code with others can enhance
 
 [217. Contains Duplicate](./HashTable/217.md)
 
-[20. Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) 
+[20. Valid Parentheses](./HashTable/20.md)
 
