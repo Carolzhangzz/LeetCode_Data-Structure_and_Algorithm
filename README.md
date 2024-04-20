@@ -16,4 +16,10 @@ Hope this guide will serve as a good starting point for your journey to learn da
 
 [83. Remove Duplicates from Sorted List](./Linkedlist/83.md)
 
+[19. Remove Nth Node From End of List](./Linkedlist/19.md)
+
+[21. Merge Two Sorted Lists](./Linkedlist/21.md)
+
+[160. Intersection of Two Linked Lists](./Linkedlist/160.md)
+
 
