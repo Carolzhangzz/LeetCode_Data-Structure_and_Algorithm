@@ -1,4 +1,4 @@
-**Guide for Data Structures and Algorithms!**
+## Guide for Data Structures and Algorithms!
 
 Data structures and algorithms are essential topics in computer science.
 
