@@ -23,3 +23,6 @@ Hope this guide will serve as a good starting point for your journey to learn da
 [160. Intersection of Two Linked Lists](./Linkedlist/160.md)
 
 [2. Add Two Numbers](./Linkedlist/2.md)
+
+[142. Linked List Cycle II](./Linkedlist/142.md)
+
