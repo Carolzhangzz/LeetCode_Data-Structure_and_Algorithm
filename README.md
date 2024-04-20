@@ -2,9 +2,9 @@
 
 Data structures and algorithms are essential topics in computer science.
 
-whether you are looking to enter the software development industry💻, enhance your career skills, or prepare for interviews.
+whether you are looking to enter the software development industry⛽️, enhance your career skills, or prepare for interviews🚀.
 
-I am trying to list all the sections, and hope this guide will serve as a good starting point for your journey to learn data structures and algorithms, providing strong support for your programming journey. 
+I am trying to list all the sections💪, and hope this guide will serve as a good starting point.
 
 `Tips for beginners:`
 
@@ -54,3 +54,5 @@ Whether they fully understand it or not, discussing code with others can enhance
 [1160. Find Words That Can Be Formed by Characters](./HashTable/1160.md)
 
 [1189. Maximum Number of Balloons](./HashTable/1189.md)
+
+
