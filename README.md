@@ -9,5 +9,11 @@ Hope this guide will serve as a good starting point for your journey to learn da
 
 #### LinkedList
 
+
+[206. Reverse Linked List](./Linkedlist/206.md)
+
 [92. Reverse Linked List II](./Linkedlist/92.md)
+
+[83. Remove Duplicates from Sorted List](./Linkedlist/83.md)
+
 
