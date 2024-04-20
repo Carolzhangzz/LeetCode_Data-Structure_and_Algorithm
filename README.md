@@ -9,4 +9,4 @@ Hope this guide will serve as a good starting point for your journey to learn da
 
 ## Reverse list 
 
-![Image Description](image-url)
+![Image Description](反转链表.drawio.png)
