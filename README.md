@@ -6,7 +6,6 @@ Hope this guide will serve as a good starting point for your journey to learn da
 
 ## Reverse list
 
-**Example 1:**
 
 #### LinkedList
 
