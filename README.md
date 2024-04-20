@@ -8,4 +8,5 @@ In this guide, you will find a variety of learning resources, including articles
 Hope this guide will serve as a good starting point for your journey to learn data structures and algorithms, providing strong support for your programming journey. 
 
 ## Reverse list 
-[]()
+
+![Image Description](image-url)
