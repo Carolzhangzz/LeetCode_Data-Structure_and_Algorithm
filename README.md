@@ -26,3 +26,7 @@ Hope this guide will serve as a good starting point for your journey to learn da
 
 [142. Linked List Cycle II](./Linkedlist/142.md)
 
+#### Hash table
+
+
+[1160. Find Words That Can Be Formed by Characters](./HashTable/1160.md)
