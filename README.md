@@ -36,7 +36,9 @@ Whether they fully understand it or not, discussing code with others can enhance
 
 
 
-## LinkedList
+## Basic Data Structure
+
+### LinkedList
 
 
 [206. Reverse Linked List](./Linkedlist/206.md)
@@ -55,7 +57,7 @@ Whether they fully understand it or not, discussing code with others can enhance
 
 [142. Linked List Cycle II](./Linkedlist/142.md)
 
-## Hash Map
+### Hash Map
 
 
 [1160. Find Words That Can Be Formed by Characters](./HashTable/1160.md)
@@ -68,3 +70,8 @@ Whether they fully understand it or not, discussing code with others can enhance
 
 [20. Valid Parentheses](./HashTable/20.md)
 
+### Search Algorithm
+
+[DFS（深度优先搜索)](./SearchAlgorithm/DFS.md)
+
+[BFS（广度优先搜索）](./SearchAlgorithm/BFS.md)
