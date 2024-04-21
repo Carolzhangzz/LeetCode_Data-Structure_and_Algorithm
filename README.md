@@ -35,10 +35,8 @@ Whether they fully understand it or not, discussing code with others can enhance
 
 
 
-## Reverse list
 
-
-#### LinkedList
+## LinkedList
 
 
 [206. Reverse Linked List](./Linkedlist/206.md)
@@ -57,7 +55,7 @@ Whether they fully understand it or not, discussing code with others can enhance
 
 [142. Linked List Cycle II](./Linkedlist/142.md)
 
-#### Hash Map
+## Hash Map
 
 
 [1160. Find Words That Can Be Formed by Characters](./HashTable/1160.md)
