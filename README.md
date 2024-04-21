@@ -75,3 +75,16 @@ Whether they fully understand it or not, discussing code with others can enhance
 [DFS（深度优先搜索)](./SearchAlgorithm/DFS.md)
 
 [BFS（广度优先搜索）](./SearchAlgorithm/BFS.md)
+
+### Binary tree
+
+A binary tree is a simple directed graph where each node has a left node and a right node.
+
+The main traversal methods of binary trees are BFS and DFS.
+
+[226. Invert Binary Tree](./BinaryTree/226.md)
+
+[101. Symmetric Tree](./BinaryTree/101.md)
+
+[104. Maximum Depth of Binary Tree](./BinaryTree/104.md)
+
