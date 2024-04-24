@@ -88,3 +88,6 @@ The main traversal methods of binary trees are BFS and DFS.
 
 [104. Maximum Depth of Binary Tree](./BinaryTree/104.md)
 
+[111. Minimum Depth of Binary Tree](./BinaryTree/111.md)
+
+[222. Count Complete Tree Nodes](/BinaryTree/222.md)
