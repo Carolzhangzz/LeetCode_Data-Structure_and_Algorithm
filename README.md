@@ -98,3 +98,11 @@ The main traversal methods of binary trees are BFS and DFS.
 [222. Count Complete Tree Nodes](/BinaryTree/222.md)
 
 [110. Balanced Binary Tree](/BinaryTree/110.md)
+
+[257. Binary Tree Paths](./BinaryTree/275.md)
+
+[404. Sum of Left Leaves](./BinaryTree/404.md)
+ 
+[513. Find Bottom Left Tree Value](./BinaryTree/513.md)
+
+[112. Path Sum](./BinaryTree/112.md) 
