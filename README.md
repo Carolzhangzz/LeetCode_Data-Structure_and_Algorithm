@@ -36,7 +36,7 @@ Whether they fully understand it or not, discussing code with others can enhance
 
 ## Basic Language Features
 
-[java 中的右移和左移操作](./javaBasic.md)
+[右移和左移操作](./javaBasic.md)
 
 
 
@@ -97,3 +97,4 @@ The main traversal methods of binary trees are BFS and DFS.
 
 [222. Count Complete Tree Nodes](/BinaryTree/222.md)
 
+[110. Balanced Binary Tree](/BinaryTree/110.md)
