@@ -76,6 +76,17 @@ The main traversal methods of binary trees are BFS and DFS.
 
 [112. Path Sum](./BinaryTree/112.md) 
 
+[654. Maximum Binary Tree](./BinaryTree/654.md)
+
+
+[617. Merge Two Binary Trees](./BinaryTree/617.md)
+
+[235. Lowest Common Ancestor of a Binary Search Tree](./BinaryTree/235.md)
+
+[108. Convert Sorted Array to Binary Search Tree](./BinaryTree/108.md)
+
+### Backtracking algorithm
+
 
 
 #### Basic Intro
