@@ -103,8 +103,6 @@ The main traversal methods of binary trees are BFS and DFS.
 
 
 
-
-
 #### Basic Intro
 
 Data structures and algorithms are essential topics in computer science.
