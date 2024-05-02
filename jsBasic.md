@@ -49,6 +49,43 @@ map.set("age", 30);
 map.set("city", "New York");
 ```
 
+## 数组：
+
+```js
+let numbers = [1, 2, 3, 4, 5];
+let names = ["Alice", "Bob", "Charlie"];
+let objects = [{ key: "value" }, { key: "value" }];
+```
+
+遍历元素
+```js 
+let numbers = [1, 2, 3, 4, 5];
+console.log(numbers[0]); // 输出：1
+
+for (let i = 0; i < numbers.length; i++) {
+    console.log(numbers[i]);
+}
+```
+
+添加和删除元素： 数组具有丰富的方法用于添加和删除元素，比如 push、pop、shift、unshift 等。 
+
+```js
+let numbers = [1, 2, 3];
+numbers.push(4); // 添加元素到数组末尾
+numbers.pop(); // 删除数组末尾的元素
+numbers.unshift(0); // 添加元素到数组开头
+numbers.shift(); // 删除数组开头的元素
+```
+
+数组的方法： 数组具有许多方法用于对数组进行操作，比如 map、filter、reduce 等，这些方法使得对数组的处理更加方便和高效。
+
+```js
+let numbers = [1, 2, 3, 4, 5];
+let doubledNumbers = numbers.map(num => num * 2); // 对数组中的每个元素都乘以2
+let evenNumbers = numbers.filter(num => num % 2 === 0); // 过滤出数组中的偶数
+let sum = numbers.reduce((acc, num) => acc + num, 0); // 对数组中的所有元素求和
+```
+
 
 在计算机科学中，数据结构是指在计算机内部组织和存储数据的方式。它们是为了实现高效的访问和修改而设计的。常见的数据结构包括数组、链表、栈、队列、树等等。
 
