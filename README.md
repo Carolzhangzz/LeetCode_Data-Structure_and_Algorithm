@@ -86,12 +86,15 @@ The main traversal methods of binary trees are BFS and DFS.
 [108. Convert Sorted Array to Binary Search Tree](./BinaryTree/108.md)
 
 
-
 ### [Backtracking algorithm](./Backtracking/backtracking.md)
+
+这个模块是一个小进阶的模块，涉及到了很多的递归，由于递归的思想和我们大脑的思考方法是相反的，但是回溯并不是一个很高效的算法，只适合解决一些数据规模比较小的场景。
 
 [77. Combinations](./Backtracking/77.md)
 
 [39. Combination Sum](./Backtracking/39.md)
+
+[40. Combination Sum II](./Backtracking/40.md)
 
 
  

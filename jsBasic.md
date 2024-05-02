@@ -96,6 +96,41 @@ candidates.sort((a, b) => b - a); // 降序排列
 
 JavaScript中的内置数据类型包括数字、字符串、布尔值、undefined和null。除此之外，JavaScript还提供了多种自定义数据类型，例如对象、数组和函数。接下来我们将介绍这些自定义数据类型，并展示如何使用它们来创建更复杂的数据结构。
 
+## Set 
+
+Set 是一种集合数据结构，它存储不重复的值，类似于 Java 中的 HashSet。
+
+Set 的主要特点包括：
+
+无序性： Set 中的元素没有顺序，不能保证元素的存储顺序和插入顺序相同。
+唯一性： Set 不允许存储重复的值，如果尝试添加一个已经存在的值，Set 将不会改变，并且不会抛出异常。
+基于哈希表： Set 内部是基于哈希表实现的，它使用哈希函数来将元素映射到哈希表的一个位置。通过哈希表，Set 实现了快速的添加、删除和查找操作，平均时间复杂度为 O(1)。
+
+```js
+// 创建一个空的 Set
+let mySet = new Set();
+
+// 添加元素
+mySet.add(1);
+mySet.add(2);
+mySet.add(3);
+
+// 添加重复元素不会被保存
+mySet.add(1);
+
+// 检查是否包含某个值
+console.log(mySet.has(1)); // 输出 true
+console.log(mySet.has(4)); // 输出 false
+
+// 删除元素
+mySet.delete(2);
+
+// 遍历 Set 中的元素
+for (let item of mySet) {
+    console.log(item);
+}
+```
+
 # 二、对象
 
 在JavaScript中，对象是最常见的自定义数据类型之一。一个对象可以有无数个属性，并且每个属性都可以包含不同类型的值。以下是创建一个简单对象的语法：
