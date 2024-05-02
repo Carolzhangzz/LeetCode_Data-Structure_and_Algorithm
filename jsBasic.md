@@ -86,6 +86,11 @@ let evenNumbers = numbers.filter(num => num % 2 === 0); // 过滤出数组中的
 let sum = numbers.reduce((acc, num) => acc + num, 0); // 对数组中的所有元素求和
 ```
 
+## 数组升序 和 降序排列
+
+candidates.sort((a, b) => b - a); // 降序排列
+
+  candidates.sort((a, b) => a - b); // 升序排序
 
 在计算机科学中，数据结构是指在计算机内部组织和存储数据的方式。它们是为了实现高效的访问和修改而设计的。常见的数据结构包括数组、链表、栈、队列、树等等。
 
