@@ -96,6 +96,16 @@ The main traversal methods of binary trees are BFS and DFS.
 
 [40. Combination Sum II](./Backtracking/40.md)
 
+[216. Combination Sum III](./Backtracking/216.md)
+
+[93. Restore IP Addresses](./Backtracking/93.md) 
+
+[78. Subsets](./Backtracking/78.md)
+ 
+[491. Non-decreasing Subsequences](./Backtracking/491.md)
+ 
+
+
 
  
 
