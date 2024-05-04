@@ -104,6 +104,10 @@ The main traversal methods of binary trees are BFS and DFS.
  
 [491. Non-decreasing Subsequences](./Backtracking/491.md)
  
+[46. Permutations](./Backtracking/46.md) 
+
+[47. Permutations II](./Backtracking/47.md)
+
 
 
 
