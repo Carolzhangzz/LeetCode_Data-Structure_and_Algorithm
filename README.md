@@ -12,10 +12,12 @@
 #### 前端开发面试手写代码题
 [字符串解析](./前端面试题汇总/解析字符串.md)
 [ConvertToTree](./前端面试题汇总/convertToTree.md)
+[可取消的 promise](//前端面试题汇总/cancelPromise.md)
 
 
 ## Basic Data Structure
 
+---
 ### LinkedList
 
 
@@ -35,8 +37,8 @@
 
 [142. Linked List Cycle II](./Linkedlist/142.md)
 
+---
 ### Hash Map
-
 
 [1160. Find Words That Can Be Formed by Characters](./HashTable/1160.md)
 
@@ -47,6 +49,8 @@
 [217. Contains Duplicate](./HashTable/217.md)
 
 [20. Valid Parentheses](./HashTable/20.md)
+
+---
 
 ### Search Algorithm
 
@@ -114,7 +118,25 @@ The main traversal methods of binary trees are BFS and DFS.
 
 [698. Partition to K Equal Sum Subsets](./Backtracking/698.md)
 
-[51. N-Queens](//Backtracking/51.md)
+[51. N-Queens](/Backtracking/51.md)
+
+---
+
+## 记忆化搜索
+
+这个算法的核心就是在递归的基础上记录已经算过的状态，如果下次运算过相同的状态，直接返回已经算过的状态，避免重复运算。
+
+优点：掌握了暴力搜索，比如回溯和递归的写法之后，入门会非常的简单，时间复杂度与常规的（自底向上）动态规划是一致的。
+
+缺点：由于依然是使用递归，所以当数据规模大的时候会有比较大的栈消耗
+
+总结：如果笔试的时候想不出自底向上的动态规划，那么直接使用记忆搜索就可以了
+
+
+
+
+
+
 
 
  
