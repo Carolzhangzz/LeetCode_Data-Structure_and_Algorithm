@@ -132,6 +132,35 @@ The main traversal methods of binary trees are BFS and DFS.
 
 总结：如果笔试的时候想不出自底向上的动态规划，那么直接使用记忆搜索就可以了
 
+因为暴力搜索二叉树的复杂度是 2 的 n 次方，因此只要 n 的规模大一点点，就肯定会超时。
+但可以发现递归的时候有很多重复的运算
+
+```java
+int n;
+
+int[] dp = new int[n+1];
+//dp 初始值不一定是-1，只要是不可能出现的值就可以了
+Arrays.fill(dp,-1);
+int dfs(int cur){
+    if(cur >= n) return cur == n? 1 : 0;
+    //在暴力搜索的基础上改造成 dp 
+    //如果不等于-1，说明已经遍历过了 
+    if(dp[cur]!=-1) return dp[cur];
+    return dp[cur] = dfs[cur+1] + dfs[cur+2];
+}
+```
+如果是 c++ 和 java，就用 dp 就行了，如果是js 或者 python，可以用 map 来做，当然用数组也可以
+
+记忆化搜索是必须要带着``返回值``的
+1 递归调用
+2 判断该状态是否被计算过
+3 递归调用并且计算对应的返回值
+
+[198. House Robber](./记忆化搜索/198.md)
+[213. House Robber II](./记忆化搜索/213.md)
+
+
+
 
 
 
