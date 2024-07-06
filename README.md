@@ -124,6 +124,21 @@ The main traversal methods of binary trees are BFS and DFS.
 
 ## 记忆化搜索
 
+
+[198. House Robber](./记忆化搜索/198.md)
+
+[213. House Robber II](./记忆化搜索/213.md)
+
+[494. Target Sum](./记忆化搜索/494.md)
+
+[64. Minimum Path Sum](./记忆化搜索/64.md)
+
+[62. Unique Paths](./记忆化搜索/62.md)
+
+[63. Unique Paths II](./记忆化搜索/63.md)
+
+
+
 这个算法的核心就是在递归的基础上记录已经算过的状态，如果下次运算过相同的状态，直接返回已经算过的状态，避免重复运算。
 
 优点：掌握了暴力搜索，比如回溯和递归的写法之后，入门会非常的简单，时间复杂度与常规的（自底向上）动态规划是一致的。
@@ -155,9 +170,6 @@ int dfs(int cur){
 1 递归调用
 2 判断该状态是否被计算过
 3 递归调用并且计算对应的返回值
-
-[198. House Robber](./记忆化搜索/198.md)
-[213. House Robber II](./记忆化搜索/213.md)
 
 
 
