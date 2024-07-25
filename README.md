@@ -19,7 +19,7 @@
 ## Basic Data Structure
 
 ---
-### LinkedList
+### 1️⃣ LinkedList
 
 
 [206. Reverse Linked List](./Linkedlist/206.md)
@@ -39,7 +39,7 @@
 [142. Linked List Cycle II](./Linkedlist/142.md)
 
 ---
-### Hash Map
+### 2️⃣ Hash Map
 
 [1160. Find Words That Can Be Formed by Characters](./HashTable/1160.md)
 
@@ -53,13 +53,13 @@
 
 ---
 
-### Search Algorithm
+### 3️⃣ Search Algorithm
 
 [DFS（深度优先搜索)](./SearchAlgorithm/DFS.md)
 
 [BFS（广度优先搜索）](./SearchAlgorithm/BFS.md)
 
-### Binary tree
+### 4️⃣ Binary tree
 
 A binary tree is a simple directed graph where each node has a left node and a right node.
 
@@ -95,7 +95,7 @@ The main traversal methods of binary trees are BFS and DFS.
 [108. Convert Sorted Array to Binary Search Tree](./BinaryTree/108.md)
 
 
-### [Backtracking algorithm](./Backtracking/backtracking.md)
+### [5️⃣ Backtracking algorithm](./Backtracking/backtracking.md)
 
 这个模块是一个小进阶的模块，涉及到了很多的递归，由于递归的思想和我们大脑的思考方法是相反的，但是回溯并不是一个很高效的算法，只适合解决一些数据规模比较小的场景。
 
@@ -123,7 +123,7 @@ The main traversal methods of binary trees are BFS and DFS.
 
 ---
 
-## [记忆化搜索](./记忆化搜索/intro.md)
+## [6️⃣ 记忆化搜索](./记忆化搜索/intro.md)
 
 这个算法的核心就是在递归的基础上记录已经算过的状态，如果下次运算过相同的状态，直接返回已经算过的状态，避免重复运算。
 
