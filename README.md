@@ -16,7 +16,7 @@
 
 [ConvertToTree](./前端面试题汇总/convertToTree.md)
 
-[可取消的 promise](//前端面试题汇总/cancelPromise.md)
+[可取消的 promise](./前端面试题汇总/cancelPromise.md)
 
 
 ## Basic Data Structure
