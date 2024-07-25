@@ -7,11 +7,15 @@
 ## Basic Language Features
 
 [右移和左移操作](./javaBasic.md)
-[js 语法](./jsBasic.md)
 
-#### 前端开发面试手写代码题
+[Java Script 基本数据结构](./jsBasic.md)
+
+#### 前端开发面试代码题
+
 [字符串解析](./前端面试题汇总/解析字符串.md)
+
 [ConvertToTree](./前端面试题汇总/convertToTree.md)
+
 [可取消的 promise](//前端面试题汇总/cancelPromise.md)
 
 
