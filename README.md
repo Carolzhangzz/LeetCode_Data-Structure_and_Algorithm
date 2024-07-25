@@ -193,22 +193,3 @@ int dfs(int cur){
 
 
 
-### `Tips for beginners:`
-
-
-
-#### Do not stay too long in one question ⏰. 
-
-When you are stuck, try to think for 7~10 minutes. If you still could not figure it out or have any ideas, you should see the answers.
-
-#### Use tools to help you understand 📱. 
-
-Data structures can sometimes be difficult to grasp because it's hard to think through them using only your brain. Try drawing graphs and breaking down the steps.
-
-#### Be patient and not limited to one solution 🤔. 
-
-Most questions should have various answers. Try to explore multiple solutions if you can. Sometimes, other answers will give you more insight. Remember, it's not about how many questions you've done; it's about whether you're familiar with the algorithms behind them.
-
-#### Discuss code with others 👭👬. 
-
-Whether they fully understand it or not, discussing code with others can enhance your grasp of programming languages.
