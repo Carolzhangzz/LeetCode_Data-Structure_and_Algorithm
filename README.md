@@ -1,8 +1,6 @@
 
  ## [Switch To： Reading Mode📚](https://carolzhangzz.github.io/LeetCode_Data-Structure_and_Algorithm/) 
 
-`This HandBook it currently developed by gitHub page.`
-
 ## Basic Language Features
 
 [右移和左移操作](./javaBasic.md)
