@@ -1,5 +1,5 @@
 
- ## [Switch To： Reading Mode📚](https://carolzhangzz.github.io/LeetCode_Data-Structure_and_Algorithm/) 
+ [Click to Switch： Reading Mode📚](https://carolzhangzz.github.io/LeetCode_Data-Structure_and_Algorithm/) 
 
 ## Basic Language Features
 
