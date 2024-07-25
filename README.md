@@ -1,6 +1,6 @@
 ## [👋Guide for Data Structures and Algorithms](https://carolzhangzz.github.io/DataStructure_Algorithm_HandBook_PreForLeetCode/)
  
- ## [Switch To： Reading Mode📚](https://carolzhangzz.github.io/DataStructure_Algorithm_HandBook_PreForLeetCode/) 
+ ## [Switch To： Reading Mode📚](https://carolzhangzz.github.io/LeetCode_Data-Structure_and_Algorithm/) 
 
 `This HandBook it currently developed by gitHub page.`
 
